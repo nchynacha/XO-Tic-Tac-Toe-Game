@@ -2,6 +2,17 @@
 
 
 This is a simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The game allows two players to play against each other on the same device.
+<br>
+
+<p align="center" >
+<span>
+    Check out my 
+    <a href="https://nchynacha.github.io/XO-Tic-Tac-Toe-Game/" style="font-size: 24px; font-weight: bold; text-decoration: none; color: inherit; font-family: Arial, sans-serif;">
+      <strong>LIVE DEMO</strong>
+    </a>
+    to play TIC TAC TOE GAME.
+  </span>
+</p>
 
 ## Features
 
@@ -31,4 +42,4 @@ Here are some screenshots of the game:
 
 You can customize the appearance of the game by editing the `styles.css` file. Feel free to modify colors, fonts, and layout to fit your preferences.
 
-# XO-Tic-Tac-Toe-Game
+
