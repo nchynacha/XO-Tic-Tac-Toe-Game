@@ -24,10 +24,10 @@ This is a simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The gam
 
 Here are some screenshots of the game:
 
-![Game Start](https://github.com/nchynacha/tic-tac-toe/blob/main/assets/images/screen0.png?raw=true)
+![Game Start](https://github.com/nchynacha/XO-Tic-Tac-Toe-Game/blob/main/assets/images/screen0.png)
 *Figure 1: The game board at the start, waiting for the first move.*
 
-![Game Win](https://github.com/nchynacha/tic-tac-toe/blob/main/assets/images/screen1.png?raw=true)
+![Game Win](https://github.com/nchynacha/XO-Tic-Tac-Toe-Game/blob/main/assets/images/screen1.png?raw=true)
 *Figure 2: A completed game with a winning combination highlighted.*
 
 ## How to Play
